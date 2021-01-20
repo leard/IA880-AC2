@@ -1,0 +1,3 @@
+The motoneurons of the SOL muscle are activated by 100 descending axons with Poisson point processes with mean 3.0 ms and 30% connectivity (see parameters/synapses). The user may visualize the SOL EMG, its force, the raster plot of the motoneuron spikes, the interspike interval histogram or the firing rate of any chosen selected motoneuron. This default scenario may be a starting point for any other simulation involving, for example, the whole triceps surae and/or the Tibialis anterior (please see the Broad Tutorial).
+
+
